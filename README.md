@@ -5,6 +5,10 @@ A simple library for handling operation results with success and error states.
 ## Installation
 
 ```bash
+git clone https://github.com/tofustream/simpleresult.git
+
+cd simpleresult
+
 pip install .
 ```
 ## Usage
