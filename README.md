@@ -11,6 +11,13 @@ cd simpleresult
 
 pip install .
 ```
+
+or
+
+```bash
+pip install git+https://github.com/tofustream/simpleresult.git
+```
+
 ## Usage
 
 ```python
